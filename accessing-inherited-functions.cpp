@@ -1,5 +1,5 @@
-//In multiple inheritance,where all the base class contains same function name with different functionality, we can access the protected function from particular base class using "::" scope resolution operator.
-
+// In multiple inheritance,where all the base class contains same function name with different functionality, 
+// we can access the protected function from particular base class using "::" scope resolution operator.
 
 
 #include<iostream>
